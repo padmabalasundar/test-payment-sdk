@@ -1,0 +1,1 @@
+export type PaymentStatusType = 'AUTHORIZED' | 'CAPTURED' | 'REVERSED' | 'FAILED';
